@@ -33,6 +33,7 @@ DestacarPr(){
     document.getElementById("listaDeProduto").appendChild(Destaques);
 }
 }
+
 let produto01 = new Destaques("creatina da growth","15-01-2006","monohidratada","https://www.gsuplementos.com.br/upload/produto/imagem/m_creatina-monohidratada-250g-growth-supplements.png")
 produto01.DestacarPr();
 let produto02 = new Destaques("whey da growth","15-01-2006","hidrolisado","https://www.gsuplementos.com.br/upload/produto/imagem/m_top-whey-protein-concentrado-1kg-growth-supplements.png")
